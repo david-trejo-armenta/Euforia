@@ -1,0 +1,24 @@
+Carrito
+
+IF (USER=0){
+    ECHO'<H5>tIENES QUE INICIAR SESION</H5>
+}
+CREATE IF NOT EXISTS SHOPPING"''USER_ID""
+USER_ID
+PRODUCT_ID
+
+INSERT $USER_ID, $PRODUCT_ID $QUANTITY, $SIZE.
+
+Inicio sesion/Cerrar sesion
+
+INICIAR SESION
+user=1;
+<a href='.$page.'> </a>
+
+
+CERRAR SESION BUTTON
+CONNECT MYSQL
+DROP SHOPPING"$USER_ID'"
+user=0;
+<a href='.$page.'> </a>
+

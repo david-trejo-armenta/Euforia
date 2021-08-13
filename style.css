@@ -1,0 +1,227 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Roboto&display=swap');
+
+
+.mt-1{
+    margin-top:250px;
+}
+
+
+.navbar-toggler{border-style: rgba(255, 255, 255, 0);}
+#edit{
+    background-color: rgba(159, 212, 155, 0.863);
+}
+.currentColor{color:#1cd425;}
+.navbar-toggler{
+    border:none;
+}
+body {background-color:rgb(236, 236, 236)}
+
+h1{
+    font-size:100%;
+    color:rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    font-weight:700;
+    
+}
+h2{
+    font-size:350%;
+    color:rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    font-weight:200;
+    
+}
+
+h5{
+    font-size:250%;
+    color:rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    
+}
+p{
+    font-size:150%;
+    color:rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+}   
+a2{
+    color:rgb(0, 0, 0);
+}
+.carousel-caption{
+    color:rgb(0, 0, 0);
+    transform: translateY(-150px);
+}
+.cover {object-fit: cover;}
+.fill{
+    color:rgba(61, 61, 61, 0.363)
+}
+.jumbo{
+    transform: translateY(-50%);
+    padding-left: 10%;
+}
+.dropdown-item{ background-color: #d42323;  }
+
+#dropdown a{   color: #27ee31;  }
+
+.container{
+    background-color:rgba(255, 255, 255, 0.349);
+    padding: 3%;
+    margin-top: 3.3cm;
+    margin-bottom: 3.5cm;
+    border-radius: 20px;
+  }
+  #submit{
+    background-color: rgba(159, 212, 155, 0.863);
+}
+.border{
+    border-color:rgba(255, 255, 255, 0)
+}
+.position{position:absolute;}
+
+#font1{
+    font-size:400%;
+    color:rgb(77, 75, 75);
+    font-family: 'Oswald', sans-serif;
+}
+#font2{
+    font-size:250%;
+    color:rgb(77, 75, 75);
+    font-family: 'Oswald', sans-serif;
+}
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+    background-color: #556854 !important;
+    border: none !important;
+    box-shadow: #464e46 !important;
+}
+#cart{
+    width:150%;
+    
+}
+
+
+#font3{
+    font-size:300% !important;
+    color:rgb(5, 5, 5) !important;
+    font-family: 'Oswald', sans-serif !important;
+    font-weight:300 !important;
+}
+#font4{
+    font-size:100%;
+    color:rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+}
+#font5{
+    font-size:300%;
+    color:rgb(77, 75, 75);
+    font-family: 'Oswald', sans-serif;
+    transform: translateY(-150px);
+}
+#font6{
+    font-size:250%;
+    color:rgb(77, 75, 75);
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+#font7{
+    
+    font-size:75%;
+    color:rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    font-weight:300;
+    
+    
+}
+#font8{
+    font-size:125%;
+    color:rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    font-weight:300;
+    
+}
+#background{
+    background-image:url("background.jpg");
+}
+#color{
+background-color:#dddddd;
+border-radius:9px;
+}
+#navbarbackground{
+    background-color: #b1b7ac;
+    
+}
+#font9{
+    font-size:150%;
+    color:rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    font-weight:600;
+   
+    
+}
+#font10{
+    font-size:150%;
+    color: #000000 !important;
+    
+}
+#height{
+    transform: translateY(-150px);
+}
+#h1{
+    font-size:500%;
+    color:rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    font-weight:700;
+    transform: translateY(-100px);
+}
+#h2{
+    font-size:200%;
+    color:rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    font-weight:300;
+    transform: translateY(-80px);
+}
+#h1w{
+    font-size:500%;
+    color:rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+    font-weight:700;
+    transform: translateY(-100px);
+}
+#h2w{
+    font-size:200%;
+    color:rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+    font-weight:300;
+    transform: translateY(-80px);
+}
+
+#fontbutton{
+    font-size:100%;
+    color:rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+    font-weight:300;
+    
+}
+.dropdown-item{
+    font-size:125% !important;
+    color:rgb(5, 5, 5) !important;
+    font-family: 'Oswald', sans-serif !important;
+    font-weight:300 !important;
+}
+.dropdown-header{
+    font-size:150% !important;
+    color:rgb(5, 5, 5) !important;
+    font-family: 'Oswald', sans-serif !important;
+    font-weight:600 !important;
+}
+#loginitem{
+    font-size:125% !important;
+    color:rgb(5, 5, 5) !important;
+    font-family: 'Oswald', sans-serif !important;
+    font-weight:300 !important;
+}
+#loginheader{
+    font-size:150% !important;
+    color:rgb(5, 5, 5) !important;
+    font-family: 'Oswald', sans-serif !important;
+    font-weight:600 !important;
+}
